@@ -97,3 +97,16 @@ body{
     font-weight: 400;
     color: #4a4a4a;
 }
+footer {
+    background: #060b0f;
+    text-align: center;
+    color: white;
+    padding: 40px 0px;
+}
+footer span{
+    color: #d35400;
+}
+footer p {
+    font-size: 14px;
+    font-weight: 300;
+}
