@@ -2,3 +2,40 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+.half-width{
+    width: 50%;
+}
+.top-section{
+    display: flex;
+    padding-left: 122px;
+}
+.top-section-left span{
+    color: #f39c12 ;
+}
+.top-section-left h1 {
+    font-size: 50px;
+    color: gray;
+    margin-top: 100px;
+}
+.top-section-left p {
+    width: 80%;
+    font-size: 18px;
+    color: #8a8787;
+    margin-bottom: 60px;
+}
+.order-button {
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    background-image: linear-gradient(250deg,#f72e19, #fd9c62);
+    padding: 17px 31px;
+    border-radius: 34px;
+    font-weight: 400;
+    box-shadow: 1px 0px 15px #f39c12;
+}
+.top-section-right img {
+    width: 90%;
+}
+
+
