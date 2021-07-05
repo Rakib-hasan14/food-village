@@ -23,7 +23,7 @@ body{
     color: #8a8787;
     margin-bottom: 60px;
 }
-.order-button {
+.button-style {
     text-decoration: none;
     color: white;
     font-size: 17px;
@@ -37,5 +37,29 @@ body{
 .top-section-right img {
     width: 90%;
 }
-
-
+.about-section{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    height: 556px;
+}
+.about-sec-left{
+     width: 55%;
+}
+.about-sec-left img {
+    width: 42%;
+    margin-left: 223px;
+    margin-top: 63px;
+}
+.about-sec-right{
+    width: 45%;
+}
+.about-sec-right h1 {
+    font-size: 40px;
+    color: gray;
+    margin-top: 124px;
+}
+.about-sec-right p {
+    width: 61%;
+    color: #4f4747;
+    margin-bottom: 90px;
+}
