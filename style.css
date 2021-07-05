@@ -63,3 +63,37 @@ body{
     color: #4f4747;
     margin-bottom: 90px;
 }
+.recipies-title{
+    text-align: center;
+}
+.recipies-title h1 {
+    font-size: 40px;
+    color: gray;
+    margin-top: 60px;
+}
+.recipies-title p {
+    width: 50%;
+    margin: auto;
+    color: #514949;
+}
+.recipies{
+    display: flex;
+}
+.recipies-box {
+    width: 27%;
+    margin: 57px 3%;
+    border: 21px solid white;
+    border-radius: 40px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.recipies-box img{
+    width: 100%;
+}
+.recipies-box h2{
+    font-size: 26px;
+    color: #3c3c3c;
+}
+.recipies-box p{
+    font-weight: 400;
+    color: #4a4a4a;
+}
