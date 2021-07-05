@@ -80,11 +80,11 @@ body{
     display: flex;
 }
 .recipies-box {
-    width: 27%;
+    width: 28%;
     margin: 57px 3%;
-    border: 21px solid white;
     border-radius: 40px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 23px 23px;
 }
 .recipies-box img{
     width: 100%;
