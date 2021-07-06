@@ -97,11 +97,42 @@ body{
     font-weight: 400;
     color: #4a4a4a;
 }
+.idea-sec-titles{
+    text-align: center;
+}
+.idea-sec-titles h1 {
+    font-size: 38PX;
+    color: gray;
+}
+.idea-sec-titles p {
+    width: 75%;
+    margin: auto;
+    font-size: 15px;
+    color: #2f2f2f;
+}
+.ideas{
+    display: flex;
+    margin: 35px 0px;
+}
+.ideas-item{
+    width: 22%;
+    margin: 0 3%;
+}
+.ideas-item h4{
+    color: gray;
+    font-size: 20px;
+}
+.ideas-item p {
+    font-size: 15px;
+    color: #353535;
+}
 .food-blog{
     display: flex;
+    margin-top: 66px;
 }
 .food-blog-pic img{
     width: 100%;
+    height: 100%;
 }
 .food-blog-texts{
     background: #f2f2f2;
